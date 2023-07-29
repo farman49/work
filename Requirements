@@ -1,0 +1,7 @@
+Define internal to account routing dependencies (Global/Managed IP Prefix, TSS, Control mapping, IAM requirements, Supporting multi VPC, connectivity to VPC, TGW egress, VPC endpoints (private link) )
+
+Create base routing  configuration in Terraform code. 
+
+Document config in Terraform and product documentation.
+
+Generate stories for VPC automation.
