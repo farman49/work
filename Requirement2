@@ -1,0 +1,16 @@
+Define and Document ORG level SCP requirements
+
+Network Perimeter
+Data Loss prevention
+Regional Control - use1 usw2 cac1
+Approved Service management (Define Allow vs deny list per env)
+Define and Document SCP inheritance through OU level
+
+Align to Below-Line Controls
+
+[Define EC2 Instance SCP and Maintenance procedures](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples_ec2.html#:~:text=SCPs%20for%20Amazon%20Elastic%20Compute%20Cloud%20(Amazon%20EC2))
+[Define RAM no external share SCP](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples_ram.html#:~:text=SCPs%20for%20AWS%20Resource%20Access%20Manager)
+[Define SCP for resource tagging](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples_tagging.html#:~:text=SCPs%20for%20tagging%20resources)
+[Define Amazon Virtual Private Cloud-Amazon VPC SCP](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples_vpc.html#:~:text=SCPs%20for%20Amazon%20Virtual%20Private%20Cloud%20(Amazon%20VPC)
+
+ 
